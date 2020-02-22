@@ -1,10 +1,9 @@
 /wp-admin
-/wp-login
 /wp-admin/
+/wp-login
 /admin/
 /login/
-/Admin/
-/ADMIN/
+/ADMON/
 /adminarea/admin.asp
 /showlogin/
 /ccms/
@@ -110,6 +109,7 @@
 /admin2/index.cfm
 /admincontrol.cgi
 /memberadmin.cfm
+/login/
 /cms/login/
 /admin/home.asp
 /mag/admin/
@@ -328,12 +328,15 @@
 /webadmin/login.php
 /administrivia/
 /admin2.html
+/admin/
 /user.cfm
 /administrator/index.js
 /admin_area/
 /admincontrol/login.js
+/ADMIN/
 /bb-admin/admin.js
 /pureadmin/
+/Admin/
 /adminarea/
 /admincontrol.asp
 /sysadmin/
@@ -472,7 +475,6 @@
 /administr8.php
 /admin/index.php
 /panel-administracion/admin.asp
-/ADMON/
 /AdminTools/
 /admin/account.asp
 /administr8.html
@@ -512,7 +514,6 @@
 /admin_area/login.html
 /bigadmin/
 /login.asp
-/admin/
 /adminarea/index.php
 /admin/admin_management.php
 /moderator/
