@@ -29,7 +29,7 @@ AAP Finder (Advanced Admin Page Finder) is a tool written in Python3 with advanc
 ## Features
 - [x] Have more than **550+ Potential Admin Panels**
 - [x] **MultiThreaded** 
-- [x] Able to BruteForce Subdomain LoginPages i.e **login.target.com, admin.target.com, etc
+- [x] Able to BruteForce Subdomain LoginPages i.e **login.target.com, admin.target.com, etc**
 - [x] Large Dictionary
 - [x] Supports Both **HTTP** & **HTTPS** 
 - [x] BruteForce Multiple Domains at a time
@@ -127,23 +127,30 @@ $ python okadminfinder.py
 
 ## Screenshots
 
-* Description : Adding Custom Potential Admin Panels Via File
-* Command Example : python3 aapfinder.py -u https://target.com --custom my_dict.txt -t php
+#### Description : Adding Custom Potential Admin Panels Via File
+#### Command Example : python3 aapfinder.py -u https://target.com **--custom my_dict.txt** -t php
+
 ![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Add_Custom_Dictionary.PNG)
 
-* Description : Adding Multiple Targets Via File
-* Command Example : python3 aapfinder.py --targets my_targets.txt -t php 
+
+#### Description : Adding Multiple Targets Via File
+#### Command Example : python3 aapfinder.py **--targets my_targets.txt** -t php 
+
 ![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Scan_Targets_from_file.PNG)
 
-* Description : Saving Result In a File
-* Command Example : python3 aapfinder.py -u https://target.com --output result.txt -t php
+#### Description : Saving Result In a File
+#### Command Example : python3 aapfinder.py -u https://target.com **--output result.txt** -t php
+
 ![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Add_Custom_Dictionary.PNG)
 
-* Description : Saved Result
+#### Description : Saved Result
+
 ![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Saved_Result.PNG)
 
-* Description : Able to Find Subdomain Login Panels
+#### Description : Able to Find Subdomain Login Panels
+
 ![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Subdomain_LoginPage.PNG)
+
 ![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Subdomain_LoginPage1.PNG)
 
 ## Contribute
