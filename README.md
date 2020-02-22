@@ -24,10 +24,10 @@
                         This small python script can do really awesome work.
                         
 
-AAP Finder (Advanced Admin Page Finder) is a tool written in Python3 with advanced functionalities, with more than **550+ Potential Admin Panels**. This Tool Can Easily Find Login Pages of Any Site & is also capable to detect *robots.txt* File.
+AAP Finder (Advanced Admin Page Finder) is a tool written in Python3 with advanced functionalities, with more than **700+ Potential Admin Panels**. This Tool Can Easily Find Login Pages of Any Site & is also capable to detect *robots.txt* File.
 
 ## Features
-- [x] Have more than **550+ Potential Admin Panels**
+- [x] Have more than **700+ Potential Admin Panels**
 - [x] **MultiThreaded** 
 - [x] Able to BruteForce Subdomain LoginPages i.e **login.target.com, admin.target.com, etc**
 - [x] Large Dictionary
