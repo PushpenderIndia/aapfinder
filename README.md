@@ -91,8 +91,11 @@ $ python3 aapfinder.py --help
 # Navigate to aapfinder Directory
 $ cd aapfinder
 
+# Install Dependencies
+$ python -m pip install requests
+
 # Run it using python3
-$ python okadminfinder.py
+$ python aapfinder.py --help
 ```
 
 #### PentestBox
@@ -102,7 +105,7 @@ $ python okadminfinder.py
 # Create Alias by adding this Line to C://Pentestbox/bin/customtools/customaliases file
  aapfinder=py -3 "%pentestbox_ROOT%/bin/Path/to/aapfinder/aapfinder.py
  
-# So you'll be able to launch it using: aapfinder
+# So you'll be able to launch it using: aapfinder --help
 ```
 
 ## Available Arguments 
