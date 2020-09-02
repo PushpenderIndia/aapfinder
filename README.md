@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/AAP%20Finder%20Logo.png" alt="AAP Finder Logo"/>
+  <img src="https://github.com/PushpenderIndia/aapfinder/blob/master/img/AAP%20Finder%20Logo.png" alt="AAP Finder Logo"/>
 </p>
 
 <h1 align="center">AAP Finder</h1>
@@ -7,13 +7,13 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3-green.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/LICENSE">
+  <a href="https://github.com/PushpenderIndia/aapfinder/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/aapfinder/releases">
+  <a href="https://github.com/PushpenderIndia/aapfinder/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://github.com/Technowlogy-Pushpender/aapfinder">
+    <a href="https://github.com/PushpenderIndia/aapfinder">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
   </a>
@@ -48,7 +48,7 @@ AAP Finder (Advanced Admin Page Finder) is a tool written in Python3 with advanc
 ## Tools Overview
 | Front View | Sample Feature	|
 | ------------  | ------------ |
-|![Index](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/AAP%20Finder1.PNG)|![f](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/AAPFinder2.PNG)
+|![Index](https://github.com/PushpenderIndia/aapfinder/blob/master/img/AAP%20Finder1.PNG)|![f](https://github.com/PushpenderIndia/aapfinder/blob/master/img/AAPFinder2.PNG)
 
 ## Prerequisite
 - [x] Python 3.X
@@ -68,7 +68,7 @@ AAP Finder (Advanced Admin Page Finder) is a tool written in Python3 with advanc
 $ cd /opt/
 
 # Clone this repository
-$ git clone https://github.com/Technowlogy-Pushpender/aapfinder.git
+$ git clone https://github.com/PushpenderIndia/aapfinder.git
 
 # Navigate to aapfinder folder
 $ cd aapfinder
@@ -133,28 +133,28 @@ $ python aapfinder.py --help
 #### Description : Adding Custom Potential Admin Panels Via File
 #### Command Example : python3 aapfinder.py -u https://target.com **--custom my_dict.txt** -t php
 
-![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Add_Custom_Dictionary.PNG)
+![](https://github.com/PushpenderIndia/aapfinder/blob/master/img/Add_Custom_Dictionary.PNG)
 
 
 #### Description : Adding Multiple Targets Via File
 #### Command Example : python3 aapfinder.py **--targets my_targets.txt** -t php 
 
-![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Scan_Targets_from_file.PNG)
+![](https://github.com/PushpenderIndia/aapfinder/blob/master/img/Scan_Targets_from_file.PNG)
 
 #### Description : Saving Result In a File
 #### Command Example : python3 aapfinder.py -u https://target.com **--output result.txt** -t php
 
-![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Add_Custom_Dictionary.PNG)
+![](https://github.com/PushpenderIndia/aapfinder/blob/master/img/Add_Custom_Dictionary.PNG)
 
 #### Description : Saved Result
 
-![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Saved_Result.PNG)
+![](https://github.com/PushpenderIndia/aapfinder/blob/master/img/Saved_Result.PNG)
 
 #### Description : Able to Find Subdomain Login Panels
 
-![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Subdomain_LoginPage.PNG)
+![](https://github.com/PushpenderIndia/aapfinder/blob/master/img/Subdomain_LoginPage.PNG)
 
-![](https://github.com/Technowlogy-Pushpender/aapfinder/blob/master/img/Subdomain_LoginPage1.PNG)
+![](https://github.com/PushpenderIndia/aapfinder/blob/master/img/Subdomain_LoginPage1.PNG)
 
 ## Contribute
 
@@ -167,7 +167,6 @@ singhpushpender250@gmail.com
 ## Buy Me A Coffee
 
 * Support my Open Source projects by making Donation, It really motivates me to work on more projects
-* PayPal Address: https://paypal.me/anonyindia
-* PayPal Email: `singhpushpender250@gmail.com`
+* PayPal Email: `shrisatender@gmail.com` [**Please Don't Send Emails to This Address**]
 
 ## More Features Coming Soon...
