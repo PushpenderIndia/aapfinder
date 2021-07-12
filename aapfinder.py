@@ -28,6 +28,8 @@ def check_internet_connection():
         s = socket.create_connection((host, 80), 2)
         s.close()
         print(f"{GREEN}[+] We Are Connected to Internet : )")
+        print("[!] Type python3 aapfinder.py -h or --help")
+        
     except Exception:
         print(f"{RED}[!] Your are Offline Please Connect to Internet :(")
         print(f"{YELLOW}[*] Exting ...")
