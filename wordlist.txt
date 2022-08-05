@@ -388,6 +388,8 @@
 /adm_cp//admin/moderator.php
 /user.html
 /logins/
+/admin.php/
+/admincontrol/
 /admincontrol/login.cfm
 /administrator.js
 /adminLogin.js
@@ -688,3 +690,5 @@
 /memlogin/
 /wp-login.cgi
 /cpanel/
+/soap/
+/admin/
