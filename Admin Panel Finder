@@ -6,7 +6,7 @@ BLUE, RED, WHITE, YELLOW, MAGENTA, GREEN, END = '\33[94m', '\033[91m', '\33[97m'
 
 def get_arguments():
     banners.get_banner()  # Banner of This Tool
-    parser = argparse.ArgumentParser(description=f'{RED}AAPFinder v1.0')
+    parser = argparse.ArgumentParser(description=f'{RED}Admin Panel Finder v1.0')
     parser._optionals.title = f"{GREEN}Optional Arguments{YELLOW}"
     parser.add_argument("-u", "--url", dest="target", help="Specify Target URL of Website.")  
     parser.add_argument("-d", "--delay", dest="delay", help="Specify Delay In Seconds after each Login Url Test.")
@@ -210,9 +210,9 @@ def start_scanning(links, target_url):
 def create_result_file(output_file_name):
     with open(output_file_name, "w") as f:
         f.write("[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]\n")
-        f.write("   SCAN RESULT  - Created BY AAPFinder (Advanced AdminPage Finder)\n") 
-        f.write("              AUTHOR      : Pushpender Singh\n") 
-        f.write("              TOOL NAME   : AAPFinder\n") 
+        f.write("   SCAN RESULT  - Created BY Admin Panel Finder (Advanced Admin Page&Panel Finder)\n") 
+        f.write("              AUTHOR      : PERPLEX Singh\n") 
+        f.write("              TOOL NAME   : Admin Panek Finder\n") 
         f.write("              WRITTEN IN  : Python 3\n") 
         f.write("[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]\n")
         if arguments.threading:
