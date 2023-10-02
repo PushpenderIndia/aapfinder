@@ -159,9 +159,3 @@ $ python aapfinder.py --help
 ## Contribute
 
 * All Contributors are welcome, this repo needs contributors who will improve this tool to make it best.
-
-## Contact
-
-singhpushpender250@gmail.com 
-
-## More Features Coming Soon...
